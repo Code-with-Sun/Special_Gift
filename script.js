@@ -11,12 +11,12 @@ document.addEventListener("DOMContentLoaded", function () {
               flame.style.opacity = "0"; // Hide flames
           });
           text.style.opacity = "1"; // Show text
-          text.style.top = "-650%"; // Move text up
+          text.style.top = "-580%"; // Move text up
           text2.style.opacity = "0"; // Hide text 2 
           sms.style.opacity = "1"; // To show the sms
           sms.style.top = "92%";
           heart.style.opacity ="1"; // to show the love
-          heart.style.top = "-25%";
+          heart.style.top = "-13%";
           wish.style.opacity = "0"; // To hide the wishes
       });
   });
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
         document.body.style.overflowX = "hidden";
 
         // Notify the user
-        alert("Hi Swapna I am Sundar !!\nPlease off desktop mood for best experience.");
+        alert("Hi Swapna I am Jarvis !!\nI'm personal AI assistant of Mr. Sundar\nPlease off desktop site for best experience👍");
     }
 }
 
