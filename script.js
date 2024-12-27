@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (isMobile && window.innerWidth > 768) {
         // Redirect to mobile version of the site
-        // window.location.href = "https://192.168.137.1:5501//index.html";
+        window.location.href = "https://code-with-sun.github.io/Special_Gift/";
     } else if (window.innerWidth > 768) {
         // Force mobile layout
         document.body.style.maxWidth = "480px";
